@@ -45,7 +45,3 @@ N/A
 * [An Infinite Scroll Project Using AJAX, MySQL, API, PHP, and JQuery [Video]](https://www.packtpub.com/web-development/infinite-scroll-project-using-ajax-mysql-api-php-and-jquery-video)
 
 * [Spring MVC For Beginners : Build Java Web App in 25 Steps [Video]](https://www.packtpub.com/application-development/spring-mvc-beginners-build-java-web-app-25-steps-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789533149">https://packt.link/free-ebook/9781789533149 </a> </p>
